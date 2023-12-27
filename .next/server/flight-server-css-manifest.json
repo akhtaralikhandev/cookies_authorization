@@ -1,0 +1,18 @@
+{
+  "cssImports": {
+    "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\layout.tsx": [
+      "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\page": [
+      "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\globals.css"
+    ],
+    "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\dashboard\\page": [
+      "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\globals.css"
+    ],
+    "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\dashboard\\settings\\page": [
+      "C:\\Users\\akhtar ali\\Downloads\\cookies_auth\\app\\app\\globals.css"
+    ]
+  }
+}
